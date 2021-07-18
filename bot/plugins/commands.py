@@ -92,7 +92,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/mohithmahesh'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/mohithmahi/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sbmoviesofficial')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/sbbotzz')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
