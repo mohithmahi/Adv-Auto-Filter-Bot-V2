@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📍 join here 📍', url="https://t.me/sbmoviesuploaded"
+                                    '📍 Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ 📍', url="https://t.me/sbmoviesuploaded"
                                 )
                         ]
                     ]
